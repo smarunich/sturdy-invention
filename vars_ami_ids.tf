@@ -9,7 +9,7 @@ variable "ami_avi_controller" {
   default = {
      eu-west-1 = "ami-0cc46fd12b448e3bd" #18.2.2
      us-east-1 = "ami-07b6f43ff7d7dbcff" #18.2.2
-     us-west-2 = "ami-0e4c99c8d8cbe76cd" #18.2.3
+     us-west-2 = "ami-0ef13f76789a1223b" #18.2.2
 #     us-west-2 = "ami-07679341fa956f8fd" #18.2.2
 #    eu-west-1 = "ami-0e35e93a84ee4e733" #17.2.15
 #    us-west-2 = "ami-03a31f305a0d65ae4" #17.2.15
